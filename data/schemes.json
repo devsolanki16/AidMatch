@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-Kisan)",
+    "description": "Income support for farmers.",
+    "eligibility": {
+      "age": "18+",
+      "gender": "Any",
+      "income": "<2L",
+      "caste": "Any",
+      "location": "Rural",
+      "occupation": "Farmer",
+      "education": "Any",
+      "disability": "No"
+    },
+    "documents_needed": ["Aadhaar", "Land Record"],
+    "application_link": "https://pmkisan.gov.in"
+  },
+  {
+    "name": "Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (PMJAY)",
+    "description": "Health insurance for economically vulnerable Indians.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Any",
+      "income": "Low income families",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "Income Certificate"],
+    "application_link": "https://pmjay.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana (PMAY)",
+    "description": "Affordable housing for all.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Any",
+      "income": "Low to middle income",
+      "caste": "Any",
+      "location": "Urban/Rural",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "Income Certificate", "Property Documents"],
+    "application_link": "https://pmaymis.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "description": "Crop insurance for farmers.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Any",
+      "income": "Farmer",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Farmer",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "Land Record", "Bank Passbook"],
+    "application_link": "https://pmfby.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "description": "Financial inclusion for all.",
+    "eligibility": {
+      "age": "10+",
+      "gender": "Any",
+      "income": "Any",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "Address Proof"],
+    "application_link": "https://pmjdy.gov.in"
+  },
+  {
+    "name": "Atal Pension Yojana (APY)",
+    "description": "Pension scheme for unorganized sector.",
+    "eligibility": {
+      "age": "18-40",
+      "gender": "Any",
+      "income": "Unorganized sector",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Unorganized sector",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "Bank Passbook"],
+    "application_link": "https://npscra.nsdl.co.in/scheme-details.php"
+  },
+  {
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "description": "Loans for small businesses.",
+    "eligibility": {
+      "age": "18+",
+      "gender": "Any",
+      "income": "Any",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Entrepreneur",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "Business Proof"],
+    "application_link": "https://mudra.org.in"
+  },
+  {
+    "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "description": "LPG connections for women from BPL households.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Female",
+      "income": "BPL",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "BPL Card"],
+    "application_link": "https://pmuy.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "description": "Life insurance for all.",
+    "eligibility": {
+      "age": "18-50",
+      "gender": "Any",
+      "income": "Any",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "Bank Account"],
+    "application_link": "https://jansuraksha.gov.in/Forms-PMJJBY.aspx"
+  },
+  {
+    "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "description": "Accident insurance for all.",
+    "eligibility": {
+      "age": "18-70",
+      "gender": "Any",
+      "income": "Any",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "Bank Account"],
+    "application_link": "https://jansuraksha.gov.in/Forms-PMSBY.aspx"
+  },
+  {
+    "name": "National Social Assistance Programme (NSAP)",
+    "description": "Social assistance for the elderly, widows, and disabled.",
+    "eligibility": {
+      "age": "60+",
+      "gender": "Any",
+      "income": "BPL",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "BPL Card"],
+    "application_link": "https://nsap.nic.in"
+  },
+  {
+    "name": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)",
+    "description": "Free food grains for the poor.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Any",
+      "income": "BPL",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Ration Card"],
+    "application_link": "https://dfpd.gov.in"
+  },
+  {
+    "name": "Deendayal Disabled Rehabilitation Scheme (DDRS)",
+    "description": "Assistance for disabled persons.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Any",
+      "income": "Any",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Yes"
+    },
+    "documents_needed": ["Disability Certificate", "Aadhaar"],
+    "application_link": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "name": "Jal Jeevan Mission (Har Ghar Jal)",
+    "description": "Tap water to every rural household.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Any",
+      "income": "Any",
+      "caste": "Any",
+      "location": "Rural",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "Residence Proof"],
+    "application_link": "https://jaljeevanmission.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+    "description": "Rural road connectivity.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Any",
+      "income": "Any",
+      "caste": "Any",
+      "location": "Rural",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "Residence Proof"],
+    "application_link": "https://pmgsy.nic.in"
+  },
+  {
+    "name": "Scheme for PM Swasthya Suraksha Yojana",
+    "description": "Improving healthcare infrastructure.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Any",
+      "income": "Any",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar"],
+    "application_link": "https://pmssy-mohfw.nic.in"
+  },
+  {
+    "name": "Namami Gange Programme",
+    "description": "Clean Ganga mission.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Any",
+      "income": "Any",
+      "caste": "Any",
+      "location": "Ganga Basin",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar"],
+    "application_link": "https://nmcg.nic.in"
+  },
+  {
+    "name": "BharatNet Project",
+    "description": "Broadband connectivity to rural areas.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Any",
+      "income": "Any",
+      "caste": "Any",
+      "location": "Rural",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar", "Residence Proof"],
+    "application_link": "https://bbnl.nic.in"
+  },
+  {
+    "name": "National AIDS Control Programme",
+    "description": "HIV/AIDS prevention and control.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Any",
+      "income": "Any",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar"],
+    "application_link": "https://naco.gov.in"
+  },
+  {
+    "name": "e-Courts Phase II",
+    "description": "ICT enablement of district and subordinate courts.",
+    "eligibility": {
+      "age": "Any",
+      "gender": "Any",
+      "income": "Any",
+      "caste": "Any",
+      "location": "Any",
+      "occupation": "Any",
+      "education": "Any",
+      "disability": "Any"
+    },
+    "documents_needed": ["Aadhaar"],
+    "application_link": "https://ecourts.gov.in"
+  }
+] 

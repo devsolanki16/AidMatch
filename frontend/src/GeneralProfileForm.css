@@ -1,0 +1,57 @@
+.general-profile-form {
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.07);
+  padding: 2rem 2.5rem;
+  max-width: 700px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.general-profile-form section {
+  margin-bottom: 0.5rem;
+}
+.general-profile-form h2 {
+  color: #2d6a4f;
+  font-size: 1.2rem;
+  margin-bottom: 0.7rem;
+  font-weight: 600;
+}
+.general-profile-form label {
+  display: block;
+  margin-bottom: 0.7rem;
+  color: #333;
+  font-size: 1rem;
+}
+.general-profile-form input,
+.general-profile-form select {
+  width: 100%;
+  padding: 0.7rem 1rem;
+  margin-top: 0.3rem;
+  border: 1px solid #dbead7;
+  border-radius: 7px;
+  background: #f6f7e7;
+  font-size: 1rem;
+  transition: border 0.2s;
+}
+.general-profile-form input:focus,
+.general-profile-form select:focus {
+  border: 1.5px solid #52b788;
+  outline: none;
+}
+.general-profile-form .submit-btn {
+  background: #2d6a4f;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.9rem 2.2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 1.5rem;
+  align-self: center;
+  transition: background 0.2s;
+}
+.general-profile-form .submit-btn:hover {
+  background: #1b4332;
+} 

@@ -1,0 +1,137 @@
+.profile-root {
+  background: #fafbe8;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+.landing-header {
+  display: flex;
+  align-items: center;
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.logo {
+  font-size: 2rem;
+  margin-right: 0.5rem;
+}
+.app-name {
+  color: #2d6a4f;
+}
+.profile-main-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+.profile-main-content h1 {
+  color: #2d6a4f;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+.profile-main-content p {
+  color: #457b9d;
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+}
+.voice-section {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+.voice-btn {
+  background: #2d6a4f;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0.8rem 2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  transition: background 0.2s;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+.voice-btn:hover {
+  background: #1b4332;
+}
+.divider-or-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 700px;
+  margin: 1.5rem 0 1rem 0;
+}
+.or-divider-on-line {
+  margin: 0 1rem;
+  color: #457b9d;
+  font-weight: 500;
+  letter-spacing: 1px;
+  white-space: nowrap;
+  background: #fafbe8;
+  padding: 0 0.7rem;
+  font-size: 1.05rem;
+}
+.divider-or-wrapper .divider-line {
+  flex: 1;
+  border: none;
+  border-top: 1.5px solid #dbead7;
+  margin: 0;
+}
+.profile-form {
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.07);
+  padding: 2rem 2.5rem;
+  max-width: 700px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.profile-form section {
+  margin-bottom: 0.5rem;
+}
+.profile-form h2 {
+  color: #2d6a4f;
+  font-size: 1.2rem;
+  margin-bottom: 0.7rem;
+  font-weight: 600;
+}
+.profile-form label {
+  display: block;
+  margin-bottom: 0.7rem;
+  color: #333;
+  font-size: 1rem;
+}
+.profile-form input,
+.profile-form select {
+  width: 100%;
+  padding: 0.7rem 1rem;
+  margin-top: 0.3rem;
+  border: 1px solid #dbead7;
+  border-radius: 7px;
+  background: #f6f7e7;
+  font-size: 1rem;
+  transition: border 0.2s;
+}
+.profile-form input:focus,
+.profile-form select:focus {
+  border: 1.5px solid #52b788;
+  outline: none;
+}
+.submit-btn {
+  background: #2d6a4f;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.9rem 2.2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 1.5rem;
+  align-self: center;
+  transition: background 0.2s;
+}
+.submit-btn:hover {
+  background: #1b4332;
+}

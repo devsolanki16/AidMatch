@@ -1,0 +1,76 @@
+.landing-root {
+  background: #fafbe8;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+.landing-header {
+  display: flex;
+  align-items: center;
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.logo {
+  font-size: 2rem;
+  margin-right: 0.5rem;
+}
+.app-name {
+  color: #2d6a4f;
+}
+.landing-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+.landing-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #2d6a4f;
+  margin-bottom: 1rem;
+}
+.landing-subtitle {
+  font-size: 1.2rem;
+  color: #457b9d;
+  margin-bottom: 2rem;
+  text-align: center;
+  max-width: 600px;
+}
+.get-started-btn {
+  background: #2d6a4f;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.8rem 2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-bottom: 2rem;
+  transition: background 0.2s;
+}
+.get-started-btn:hover {
+  background: #40916c;
+}
+.how-it-works {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.how-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.07);
+  padding: 2rem;
+  max-width: 400px;
+  margin-top: 2rem;
+}
+.how-card h2 {
+  color: #2d6a4f;
+  margin-bottom: 0.5rem;
+}
+.how-card ol {
+  padding-left: 1.2rem;
+}
+.how-card li {
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
+} 
